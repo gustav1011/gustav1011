@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👩🏻‍💻 Gustavo Munoz Dutra
+# Gustavo Munoz Dutra
 <p align="left">
          <img 
             alt="Localização" 
