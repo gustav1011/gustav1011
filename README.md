@@ -125,5 +125,16 @@ Meu nome é Gustavo Munoz Dutra, tenho 21 anos e sou natural do Rio Grande do Su
 
 ### 📊 Estatísticas
 
-<p align="center"> <img alt="Estatísticas do GitHub" height="200" src="https://github-readme-stats.vercel.app/api?username=gustav1011&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> <img alt="Linguagens mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustav1011&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=8" /> </p>
+<p align="center">
+  <img 
+    alt="Estatísticas do GitHub" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=gustav1011&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
+  />
+  <img 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustav1011&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=8&cache_seconds=1800"
+  />
+</p>
 
