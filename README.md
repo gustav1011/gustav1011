@@ -9,7 +9,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Gustavo Munoz Dutra, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente, curso Ciência da Computação na PUCRS, onde estou desenvolvendo uma base sólida em tecnologia e aprimorando minhas competências para atuar na área de desenvolvimento e inovação.
+Meu nome é Gustavo Munoz Dutra, sou natural do Rio Grande do Sul. Atualmente, curso Ciência da Computação na PUCRS, onde estou desenvolvendo uma base sólida em tecnologia e aprimorando minhas competências para atuar na área de desenvolvimento.
 
 <p align="left">
     <a href="https://www.youtube.com/@Gustavo-wd5sn">
