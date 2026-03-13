@@ -151,6 +151,7 @@ Meu nome é Gustavo Munoz Dutra, sou natural do Rio Grande do Sul. Atualmente, c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
+<br>
 ---
 
 ### 🔥 Streak de Contribuições
