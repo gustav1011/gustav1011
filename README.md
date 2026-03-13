@@ -153,8 +153,8 @@ Meu nome é Gustavo Munoz Dutra, sou natural do Rio Grande do Sul. Atualmente, c
 
 ---
 
-# 🔥 Streak de Contribuições
-<p>
+### 🔥 Streak de Contribuições
+<p align="left">
 <img src="https://streak-stats.demolab.com?user=gustav1011&theme=tokyonight"/>
 </p>
 
