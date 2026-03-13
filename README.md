@@ -152,7 +152,7 @@ Meu nome é Gustavo Munoz Dutra, sou natural do Rio Grande do Sul. Atualmente, c
 />
 
 <br>
----
+
 
 ### 🔥 Streak de Contribuições
 <p align="left">
