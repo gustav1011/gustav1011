@@ -112,6 +112,14 @@ Meu nome é Gustavo Munoz Dutra, sou natural do Rio Grande do Sul. Atualmente, c
 />
 <img 
     align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Linux Ubuntu" 
     title="Ubuntu"
     width="30px" 
