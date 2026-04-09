@@ -161,22 +161,6 @@ Meu nome é Gustavo Munoz Dutra, sou natural do Rio Grande do Sul. Atualmente, c
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p>
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=gustav1011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustav1011&layout=compact&theme=tokyonight"
-/>
-</p>
-
----
-
 
 
 
